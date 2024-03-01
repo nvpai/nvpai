@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![An image of @nowyapie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nowyapie)](https://holopin.io/@nowyapie)
+
+
 <!--
 **nvpai/nvpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
