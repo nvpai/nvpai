@@ -1,5 +1,3 @@
-**README.md**
-
 
 ## Hey there! Welcome to my coding playground! 🎮 👩‍💻 
 
