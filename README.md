@@ -2,14 +2,14 @@
 ## Hey there! Welcome to my coding playground! 🎮 👩‍💻 
 
 ### About Me
-I'm Navya, a software sorceress 🧙‍♀️ and coding enthusiast! With 2+ years of tech industry experience and a mind hungry for knowledge as a graduate student.
+I'm Navya, a software engineer 🧙‍♀️ and coding enthusiast! With 2+ years of tech industry experience and a mind hungry for knowledge as a graduate student.
 
 ### Skills Matrix 🛠️
 - **Languages**: Python, JavaScript, Java, C
 - **Databases**: SQL, MongoDB
 - **Web Development**: HTML, CSS, Node.js
 - **Tools & Tech**: Git, Azure DevOps, Bash
-- **Special Powers**: CI/CD Wizardry ✨
+- **Special Powers**: CI/CD ✨
 
 
 ### Let's Connect! 🌐
