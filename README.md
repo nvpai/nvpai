@@ -1,25 +1,27 @@
-### Hi there 👋
-# 👩‍💻 Navya V Pai - Software Engineer | Graduate Student 👩‍🎓
+**README.md**
 
-## Hi there! 👋
 
-Welcome to my coding playground! I'm Navya, a passionate software engineer and graduate student based in Austin, Texas. With a knack for problem-solving and a thirst for innovation, I'm always on the lookout for exciting projects and collaborations.
+## Hey there! Welcome to my coding playground! 🎮 👩‍💻 
 
-## 🚀 What's in Store?
+### About Me
+I'm Navya, a software sorceress 🧙‍♀️ and coding enthusiast! With 2+ years of tech industry experience and a mind hungry for knowledge as a graduate student.
 
-- **Projects Galaxy**: Explore my universe of projects where I've crafted digital wonders like Zero Waste, a revolutionary food waste management app, and Marvel Character Finder, your portal to the Marvel Universe.
+### Skills Matrix 🛠️
+- **Languages**: Python, JavaScript, Java, C
+- **Databases**: SQL, MongoDB
+- **Web Development**: HTML, CSS, Node.js
+- **Tools & Tech**: Git, Azure DevOps, Bash
+- **Special Powers**: CI/CD Wizardry ✨
 
-- **Skills Rocket Boosters**: I'm equipped with Python, JavaScript, SQL, and a bunch of other cool tech tools. Let's blast off into the coding cosmos together!
 
-- **Certifications Constellation**: I've conquered Microsoft Azure Fundamentals and mastered Agile Development Practices. Watch out, universe, here comes a certified coding ninja!
+### Let's Connect! 🌐
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/navya-pai) 🤝
+- GitHub: [Explore my digital realm](https://github.com/nvpai) 🌟
 
-## 🌌 Join the Adventure!
+### Stay tuned for more magical creations! ✨ Happy coding! 🚀
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/navya-pai) and check out my star-studded projects on [GitHub](https://github.com/nvpai). Let's embark on an intergalactic journey of innovation and discovery together!
+![Magic Coding](https://media.giphy.com/media/10dV9rlEmR6LsQ/giphy.gif)
 
-## 🌟 May the Code Be With You!
-
-Keep coding, keep exploring, and never stop reaching for the stars! 🌟
 
 
 [![An image of @nowyapie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nowyapie)](https://holopin.io/@nowyapie)
