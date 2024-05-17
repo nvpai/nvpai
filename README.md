@@ -4,13 +4,21 @@
 ### About Me
 I'm Navya, a software engineer and coding enthusiast! With 2+ years of tech industry experience and a mind hungry for knowledge as a graduate student.
 
-### Skills Matrix 🛠️
-- **Languages**: Python, JavaScript, Java, C
+### Skills Matrix 🛠️ ✨
+<!--  - **Languages**: Python, JavaScript, Java, C
 - **Databases**: SQL, MongoDB
 - **Web Development**: HTML, CSS, Node.js, Express, jQuery, Axios
 - **Tools & Tech**: Git, Azure DevOps, Bash
-- **Special Powers**: CI/CD ✨
+- **Special Powers**: CI/CD -->
+- **Back-end Development** : Python, JavaScript, NodeJS, Express, Java, and C
+- **Front-end Development**: HTML, CSS, jQuery, DOM, Bootstrap
+- **Database Management**: SQL (MySQL, PostgreSQL), MongoDB
+- **DevOps**: CI/CD pipelines,Azure DevOps,Jenkins
+- **Miscellaneous**: Git, GitHub, Agile Software Development
+- **Soft Skills**: Problem-solving, Teamwork, Communication
 
+
+- 🌱 I’m currently learning Machine Learning 
 
 ### Let's Connect! 🌐
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/navya-pai) 🤝
