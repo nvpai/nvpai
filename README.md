@@ -23,6 +23,7 @@ I'm Navya, a software engineer and coding enthusiast! With 2+ years of tech indu
 ### Let's Connect! 🌐
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/navya-pai) 🤝
 - GitHub: [Explore my digital realm](https://github.com/nvpai) 🌟
+Show me one project of yours and I’ll show you mine.
 
 ### Stay tuned for more magical creations! ✨ Happy coding! 🚀
 
